@@ -6,7 +6,7 @@ Data is stored in an array in the browser's internal storage.
 
 ## Features
 
-- **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
+- **Basic To-Do List CRUD**: Create, remove, update and modify list items. 
 - **Responsive Design**: The calculator is fully responsive and works seamlessly on different screen sizes.
 - **Clean UI**: A modern and user-friendly interface designed with Tailwind CSS.
 - **Keyboard Support**: Users can input numbers and operators using their keyboard.
@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/calculator-project.git
 2. **Navigate to the project directory**:
    ```bash
-   cd calculator-project
+   cd to-do-project
    
 3. **Install dependencies**:
    ```bash
